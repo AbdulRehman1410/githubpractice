@@ -1,0 +1,54 @@
+.div1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#div2,#div3,#div4,#div5,#div6,#div7{
+    height: 220px;
+    width: 150px;
+    border: 1px black solid;
+    margin: 20px;
+}
+
+.div8{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.button{
+    height: 30px;
+    width: 80px;
+    margin: 10px;
+    cursor: pointer;
+}
+#red{
+    background-color: red;
+    border: red 1px solid;
+}
+
+#green{
+    background-color: green;
+    border: green 1px solid;
+}
+
+#yellow{
+    background-color: yellow;
+    border: yellow 1px solid;
+}
+
+#orange{
+    background-color: orange;
+    border: orange 1px solid;
+}
+
+#blue{
+    background-color: blue;
+    border: blue 1px solid;
+}
+
+#gray{
+    background-color: gray;
+    border: gray 1px solid;
+}
